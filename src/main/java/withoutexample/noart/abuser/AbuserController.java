@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping(path = "somepath")
+@RequestMapping(path = "some-path")
 public class AbuserController {
     private AbuserService abs;
 

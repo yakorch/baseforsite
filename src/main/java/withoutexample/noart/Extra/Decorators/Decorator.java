@@ -1,5 +1,6 @@
 package withoutexample.noart.Extra.Decorators;
 
+
 public enum Decorator {
     PAPER, BASKET, RIBBON, NONE;
 

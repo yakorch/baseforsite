@@ -27,7 +27,10 @@ Honestly, I tried so hard, but got this error (except this everything should wor
 
 <img width="362" alt="Screenshot 2022-12-24 at 20 18 16" src="https://user-images.githubusercontent.com/92575094/209447334-c8b2888c-8c48-4140-b871-3d5b703a6170.png">
 
-Database connected:
+Database connected from Docker:
+
+
+<img width="936" alt="Screenshot 2022-12-24 at 20 21 55" src="https://user-images.githubusercontent.com/92575094/209447419-bf885130-e62a-4249-9779-202d53d409bc.png">
 
 
 

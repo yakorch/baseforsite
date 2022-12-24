@@ -34,6 +34,10 @@ Database connected from Docker:
 
 
 
+<img width="621" alt="Screenshot 2022-12-24 at 20 24 54" src="https://user-images.githubusercontent.com/92575094/209447501-a26aa964-e892-40e6-b89b-3602ff7f4ebb.png">
+
+
+
 <img width="312" alt="Screenshot 2022-12-24 at 20 17 50" src="https://user-images.githubusercontent.com/92575094/209447329-852a2a95-3c48-4ba3-9fa6-1fd0cd18ed7e.png">
 
 
